@@ -125,7 +125,7 @@ const SignUp = () => {
             href="/sign-in"
             className="text-lg text-center text-general-200 mt-10"
           >
-            Already have an account?{" "}
+            Already Have an account?{" "}
             <Text className="text-primary-500">Log In</Text>
           </Link>
         </View>
